@@ -1,5 +1,6 @@
 package leetcode;
 
+//58. Length of Last Word
 public class lengthOfLastWordClass {
     public int lengthOfLastWord(String s) {
         int n = s.length(), result = 0;

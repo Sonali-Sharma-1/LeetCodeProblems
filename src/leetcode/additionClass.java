@@ -1,5 +1,6 @@
 package leetcode;
 
+//67. Add Binary
 public class additionClass {
     public String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();

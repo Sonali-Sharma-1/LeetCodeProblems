@@ -2,6 +2,7 @@ package leetcode;
 
 import java.util.Stack;
 
+//20. Valid Parentheses
 public class validParanthesisClass {
     public boolean isValid(String s) {
         Stack<Character> inputStack = new Stack<>();
